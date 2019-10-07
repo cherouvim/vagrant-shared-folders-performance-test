@@ -5,10 +5,9 @@
 1. Install latest VirtualBox from https://www.virtualbox.org/wiki/Downloads
 2. Install latest VirtualBox Extension Pack from https://www.virtualbox.org/wiki/Downloads
 3. Install latest vagrant from https://www.vagrantup.com/downloads.html
-4. Run `vagrant plugin install vagrant-winnfsd`
-5. Run `vagrant up` to bring the VM up. First "up" will provision VM.
-6. Run `vagrant provision` to test the speed.
-7. Run `vagrant destroy --force` to remove VM.
+4. Run `vagrant up` to bring the VM up. First "up" will provision VM.
+5. Run `vagrant provision` to test the speed.
+6. Run `vagrant destroy --force` to remove VM.
 
 ## Environment setup (ubuntu)
 
